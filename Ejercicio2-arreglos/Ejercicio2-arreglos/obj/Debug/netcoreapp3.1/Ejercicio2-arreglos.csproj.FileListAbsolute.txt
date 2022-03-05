@@ -1,0 +1,9 @@
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.csproj.AssemblyReference.cache
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Interop.VBIDE.dll
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.csproj.ResolveComReference.cache
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2_arreglos.Form1.resources
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.csproj.GenerateResource.cache
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.AssemblyInfoInputs.cache
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.AssemblyInfo.cs
+C:\Users\luisk\source\repos\Ejercicio2-arreglos\Ejercicio2-arreglos\obj\Debug\netcoreapp3.1\Ejercicio2-arreglos.csproj.CoreCompileInputs.cache
